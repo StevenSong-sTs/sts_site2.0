@@ -28,7 +28,7 @@ export default function Home() {
         <div className="relative flex flex-col items-center text-center mt-14">
           <div className="card-wrapper h-[240px] w-[240px] sm:h-[300px] sm:w-[300px] hover:scale-110 transition duration-300 ease-in-out">
             <div className="card-content flex items-center justify-center overflow-hidden">
-              <img src='/photo1.jpg' alt="Displayed Photo" className="w-full"/>
+              <img src='/profile_photo.jpg' alt="Displayed Photo" className="w-full"/>
             </div>
           </div>
           <p className="text-5xl md:text-6xl mt-8 hover:scale-110 transition duration-300 ease-in-out">Hi There!</p>
@@ -74,8 +74,8 @@ export default function Home() {
         </div>
         <div className="relative mb-8">
           <div className="flex gap-6">
-            <a href="https://www.linkedin.com/in/steven-song-ubccpen/" target="_blank" rel="noreferrer noopener" className="hover:scale-110 transition duration-300 ease-in-out"><LinkedInIcon style={{ fontSize: 35 }} /></a>
-            <a href="https://github.com/songxincheng124" target="_blank" rel="noreferrer noopener" className="hover:scale-110 transition duration-300 ease-in-out"><GitHubIcon style={{ fontSize: 35 }} /></a>
+            <a href="https://www.linkedin.com/in/steven-song/" target="_blank" rel="noreferrer noopener" className="hover:scale-110 transition duration-300 ease-in-out"><LinkedInIcon style={{ fontSize: 35 }} /></a>
+            <a href="https://github.com/StevenSong-sTs" target="_blank" rel="noreferrer noopener" className="hover:scale-110 transition duration-300 ease-in-out"><GitHubIcon style={{ fontSize: 35 }} /></a>
             <a href="https://www.instagram.com/songsteven1204/" target="_blank" rel="noreferrer noopener" className="hover:scale-110 transition duration-300 ease-in-out"><InstagramIcon style={{ fontSize: 35 }} /></a>
             <a href="https://www.facebook.com/song.steven.961/" target="_blank" rel="noreferrer noopener" className="hover:scale-110 transition duration-300 ease-in-out"><FacebookIcon style={{ fontSize: 35 }}/></a>
           </div>
