@@ -2,7 +2,7 @@
 
 import Typewriter from 'typewriter-effect';
 import "./globals.css";
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import InstagramIcon from '@mui/icons-material/Instagram';
