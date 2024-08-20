@@ -1,3 +1,3 @@
 ## Improvements To Make
 
-- [] Add Project Page 
+- [ ] Add Project Page 
