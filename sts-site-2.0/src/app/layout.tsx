@@ -21,7 +21,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      
       <body className={passion_one.className}>{children}</body>
     </html>
   );
