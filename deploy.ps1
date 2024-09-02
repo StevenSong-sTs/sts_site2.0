@@ -2,8 +2,8 @@ $foldersToCopt = @(
     "C:\Users\Steven\Documents\Projects\sts_site2.0\sts-site-2.0\public",
     "C:\Users\Steven\Documents\Projects\sts_site2.0\sts-site-2.0\src"
 )
-$remoteUser = "rootsts"
-$remoteHost = "20.41.81.72"
+$remoteUser = "ENTER USERNAME"
+$remoteHost = "ENTER IP"
 $remoteFolderPath = "/var/www/sts_site/"
 
 #Copy files to the VPS server
