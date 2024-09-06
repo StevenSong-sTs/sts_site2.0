@@ -50,7 +50,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col relative mt-4 items-center">
           <img src='/arrow_animation.gif' alt="Displayed Photo" className="w-[100px]" hidden={!showArrow}/>
-          <a href="/StevenSong_Resume.pdf" download>
+          <a href="/StevenSong-Resume.pdf" download>
             <button className="text-3xl border-4 rounded-full p-4 border-black hover:border-blue-500 hover:scale-110 hover:text-blue-500 transition duration-300 ease-in-out" hidden={!showArrow}>Download Resume</button>
           </a>
         </div>

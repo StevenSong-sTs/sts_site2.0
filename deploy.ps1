@@ -22,6 +22,7 @@ foreach ($localFolder in $foldersToCopt) {
 }
 
 # Construct multiple commands using Here-String
+# TODO: Add Step: Clear the folder before copying
 $commands = @"
 source ~/.nvm/nvm.sh
 nvm use 20
